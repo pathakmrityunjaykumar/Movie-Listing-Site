@@ -14,3 +14,6 @@ first give the haeding after that give the search bar to search the movie
 >link with favorite page and give the botton on the movies for adding favorite
 >link with the remove on favorite for removimg the favorite movies
 >as i make the site
+
+**please make components folder and five file(AddFavorites.js,MoviesList.js,MoviesListHeading.js,RemoveFavourit.js,searchbox.js) import as i give 
+** after you can cheak or develop
